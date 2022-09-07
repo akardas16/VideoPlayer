@@ -5,7 +5,7 @@ This repository shows Videoplayer with custom UI
 
 * Add packacge Dependency https://github.com/wxxsw/VideoPlayer  
 
-* Copy and paste VideoPlayerView to your project
+* Copy and paste `VideoPlayerView` to your project
 
 ## Usage
 Portrait<img src="https://user-images.githubusercontent.com/28716129/188855794-1e6a54c9-640f-413a-bd0b-9836f5e30586.gif" width="20%" >
